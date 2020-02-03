@@ -1,0 +1,55 @@
+.navbar{
+    background: white !important;
+    height: 60px !important;
+
+}
+.navbar-brand{
+    font-weight: 600;
+    font-size: 30px;
+    color: #fb9224 !important;
+}
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover ;
+    background-size: cover;
+}
+.carousel-caption{
+    bottom: 270px;
+}
+.carousel-caption h5{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+    font-family: arial;
+}
+.carousel-caption p{
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+    font-family: arial;
+}
+.carousel-caption a{
+    text-transform: uppercase;
+    background: #fb9224;
+    padding: 10px 30px;
+    display: inline-block;
+    color: #ffffff;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.container-fluid{
+    background-color: white !important;
+    height: 900px !important;
+}
+.btn-primary{
+    background: #fb9224 !important;
+    border: 0px !important;
+    margin-top: 2px !important;
+}
+
+
+
